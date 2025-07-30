@@ -14,7 +14,7 @@ entries:
       tanzuCategory: application
     apiVersion: v2
     appVersion: 3.1.1
-    created: "2025-07-30T04:52:32.034553079+02:00"
+    created: "2025-07-30T05:55:41.390199822+02:00"
     dependencies:
     - condition: minio.enabled
       name: minio
@@ -50,6 +50,6 @@ entries:
     - https://github.com/bitnami/containers/tree/main/bitnami/mlflow
     - https://github.com/mlflow/mlflow
     urls:
-    - https://github.com/hardikpatel29/mlflow-chart/charts/mlflow-5.1.0.tgz
+    - https://hardikpatel29.github.io/mlflow-chart/mlflow-5.1.0.tgz
     version: 5.1.0
-generated: "2025-07-30T04:52:32.018342074+02:00"
+generated: "2025-07-30T05:55:41.373023255+02:00"
