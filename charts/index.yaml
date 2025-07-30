@@ -14,7 +14,7 @@ entries:
       tanzuCategory: application
     apiVersion: v2
     appVersion: 3.1.1
-    created: "2025-07-30T04:52:32.034553079+02:00"
+    created: "2025-07-30T12:59:34.671258288+02:00"
     dependencies:
     - condition: minio.enabled
       name: minio
@@ -32,7 +32,7 @@ entries:
     description: MLflow is an open-source platform designed to manage the end-to-end
       machine learning lifecycle. It allows you to track experiments, package code
       into reproducible runs, and share and deploy models.
-    digest: e0f208655e5ab0b8e615352cc9a98a2479749c78fd041743caf58cb27b6103da
+    digest: dd85087d679281c85e0849e32f3692e8f7bbaed3c76ee8ed57005e45f07bbbed
     home: https://bitnami.com
     icon: https://dyltqmyl993wv.cloudfront.net/assets/stacks/mlflow/img/mlflow-stack-220x234.png
     keywords:
@@ -50,6 +50,6 @@ entries:
     - https://github.com/bitnami/containers/tree/main/bitnami/mlflow
     - https://github.com/mlflow/mlflow
     urls:
-    - https://github.com/hardikpatel29/mlflow-chart/charts/mlflow-5.1.0.tgz
+    - https://hardikpatel29.github.io/mlflow-chart/mlflow-5.1.0.tgz
     version: 5.1.0
-generated: "2025-07-30T04:52:32.018342074+02:00"
+generated: "2025-07-30T12:59:34.641115895+02:00"
