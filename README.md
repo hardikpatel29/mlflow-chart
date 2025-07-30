@@ -21,7 +21,7 @@ helm package ./infra/helm/mlflow
 ### 3. Generate `index.yaml`
 
 ```bash
-helm repo index charts/ --url https://github.com/hardikpatel29/mlflow-chart/charts
+helm repo index charts/ --url https://github.com/hardikpatel29/mlflow-chart/
 ```
 
 ### 4. Move Files to `docs/` Directory
